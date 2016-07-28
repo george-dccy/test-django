@@ -1,4 +1,20 @@
-"superlists\db.sqlite3" 
-"__pycache__" 
-"*.pyc" 
-"db.sqlite3" 
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
+
+__pycache__
+*.pyc
+db.sqlite3
